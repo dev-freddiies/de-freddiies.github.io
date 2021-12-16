@@ -86,14 +86,13 @@
  
 </div>
 
-  <div class="contents-right">
-    <h3> Project Title </h3>
-    <ul>
-      <li> Featured Skills</li>
-    </ul>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-    <a class="project-link" href="#">Check it out</a>
-  </div>
+  <div align=center>
+    <h3> Hobbiies </h3>
+    <p>I have participated in #100DaysOfCode, I have developed projects for network administration purposes. Designing my personal brand, as well as interested in photography.</p>
+    <br></br>
+
+    <li> Carrying out my personal brand </li>
+    <p> With the help of my creativity, ambition and desire to grow, in my free time I develop a personal brand through my own designs. </p>
 </div>
 
       </section>
